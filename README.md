@@ -52,5 +52,5 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=kalli010.kalli010&left_color=gray&right_color=blue" alt="visitor badge"/>
 </p>
 
-<h3 align="center">✨ Fun Fact: [Add a fun fact about yourself here] ✨</h3>
+<!--<h3 align="center">✨ Fun Fact: [Add a fun fact about yourself here] ✨</h3>
 
