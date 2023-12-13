@@ -43,15 +43,18 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 - **[Project Name 3](https://github.com/kalli010/project-name-3)**: This project focuses on [brief description of Project 3], utilizing [technologies/languages used] to achieve [goal or result of the project].
 
 
-
+<!--
 <h3>📈 Activity Graph:</h3>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kalli010)
-
+-->
 <h3>✨ Contribution Highlights:</h3>
 
-- [Issue or PR](#): Description of your significant contribution.
-- Another highlight...
+- **[Significant Pull Request or Issue Title](link_to_the_pull_request_or_issue)**: Briefly describe the impact or significance of this contribution. For example, "Implemented a new feature that improved the performance of the application by 30%."
+
+- **[Another Contribution Title](link_to_the_contribution)**: Detail the nature of this contribution and why it was important. For example, "Resolved a critical bug affecting user login functionality."
+
+- **[Discussion or Collaboration](link_to_the_discussion)**: Mention any significant discussions or collaborative efforts you've been part of. For example, "Led a discussion on adopting a new framework that enhanced the project's scalability."
 
 <h3>👀 Visitor Count:</h3>
 
