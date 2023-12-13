@@ -132,6 +132,7 @@ I love building tools that not only solve problems but are also engaging and int
 Each of these tools reflects my commitment to creating user-friendly and practical applications. They embody my passion for combining functionality with creativity in software development.
 -->
 
+<!--
 <h3>📝 Latest Blog Posts:</h3>
 
 Here are some of my recent writings where I share my insights, experiences, and learnings:
@@ -150,4 +151,4 @@ Feel free to check out these posts and share your thoughts!
 
 
 <p align="center">🌐 Visit my [GitHub Page](https://github.com/kalli010) for more!</p>
-
+-->
