@@ -47,7 +47,7 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 <h3>📈 Activity Graph:</h3>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kalli010)
-
+.
 <h3>✨ Contribution Highlights:</h3>
 
 - [Issue or PR](#): Description of your significant contribution.
