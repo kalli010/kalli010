@@ -57,9 +57,12 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 
 - **[Discussion or Collaboration](link_to_the_discussion)**: Mention any significant discussions or collaborative efforts you've been part of. For example, "Led a discussion on adopting a new framework that enhanced the project's scalability."
 -->
+
+<!--
 <h3>👀 Visitor Count:</h3>
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kalli010.kalli010)
+-->
 
 <h3>💬 Discussions and Feedback:</h3>
 
