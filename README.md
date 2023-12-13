@@ -15,13 +15,6 @@
 </p>
 
 <p align="center">
-  <b>Projects:</b><br>
-  - [Project Name](Link to project): Brief description of the project.<br>
-  - [Another Project](Link to another project): Description.<br>
-  <!-- Add more projects as needed -->
-</p>
-
-<p align="center">
   <b>Skills:</b><br>
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -29,28 +22,18 @@
 </p>
 
 <p align="center">
-  <b>Education:</b><br>
-  Bachelor's in Computer Science, 1337 School (Expected 2024)
+  <b>Connect with me:</b><br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your Twitter URL)
 </p>
 
 <p align="center">
-  <b>Contact Me:</b><br>
-  - Email: your.email@example.com<br>
-  - [LinkedIn](Your LinkedIn profile link)<br>
-  - [Instagram](https://instagram.com/_k)
-</p>
-
-<p align="center">
-  <b>Blog Posts:</b><br>
-  - [My Latest Blog Post](Link to your blog or article)
-</p>
-
-<p align="center">
-  <b>Personal Interests:</b><br>
-  When I'm not coding, I enjoy photography and hiking. I'm also an avid reader of science fiction novels.
-</p>
-
-<p align="center">
+  <b>GitHub Stats:</b><br>
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalli010&show_icons=true)
+  ![Profile views](https://gpvc.arturio.dev/kalli010)
+</p>
+
+<p align="center">
+  <!-- Other sections like Projects, Education, Contact Me, Blog Posts, Personal Interests can remain as previously provided -->
 </p>
 
