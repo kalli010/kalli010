@@ -48,6 +48,7 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kalli010)
 -->
+<!--
 <h3>✨ Contribution Highlights:</h3>
 
 - **[Significant Pull Request or Issue Title](link_to_the_pull_request_or_issue)**: Briefly describe the impact or significance of this contribution. For example, "Implemented a new feature that improved the performance of the application by 30%."
@@ -55,7 +56,7 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 - **[Another Contribution Title](link_to_the_contribution)**: Detail the nature of this contribution and why it was important. For example, "Resolved a critical bug affecting user login functionality."
 
 - **[Discussion or Collaboration](link_to_the_discussion)**: Mention any significant discussions or collaborative efforts you've been part of. For example, "Led a discussion on adopting a new framework that enhanced the project's scalability."
-
+-->
 <h3>👀 Visitor Count:</h3>
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kalli010.kalli010)
