@@ -68,7 +68,7 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 
 Feel free to leave comments or start a discussion on any of my repositories!
 
-<h3>🔍 Fun Code Snippet:</h3>
+<h3>🔍 Code Snippets:</h3>
 
 ```c
 #include <stdio.h>
@@ -98,7 +98,7 @@ int main() {
     randomCompliment();
     return 0;
 }
-
+```
 
 <h3>📚 Personalized Content:</h3>
 
