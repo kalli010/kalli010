@@ -118,7 +118,7 @@ Hey there! 👋 I'm Kali, and here's a little more about me:
 
 This is just a snapshot of who I am outside the world of code. I believe that our hobbies and interests shape us as developers and individuals, bringing unique perspectives to our work.
 
-
+<!--
 <h3>🛠️ Interactive Tools:</h3>
 
 I love building tools that not only solve problems but are also engaging and interactive. Here are a couple of highlights from my portfolio:
@@ -130,12 +130,24 @@ I love building tools that not only solve problems but are also engaging and int
 - **Interactive Quiz Platform**: An online quiz platform built with Python and Flask. It allows users to create, share, and take quizzes on various topics. Features include instant scoring and a dynamic leaderboard. [Try a quiz](https://github.com/kalli010/Quiz-Platform).
 
 Each of these tools reflects my commitment to creating user-friendly and practical applications. They embody my passion for combining functionality with creativity in software development.
-
+-->
 
 <h3>📝 Latest Blog Posts:</h3>
 
-- [Blog Post Title](#)
-- Another post...
+Here are some of my recent writings where I share my insights, experiences, and learnings:
+
+- **[Journey into the World of Machine Learning](#)**: In this post, I dive into my experiences learning about machine learning, discussing both the challenges and the thrilling discoveries I've made along the way.
+
+- **[Exploring React's Latest Features](#)**: A comprehensive guide where I explore the newest features in React, providing examples and best practices for fellow developers.
+
+- **[The Intersection of Technology and Art](#)**: Here, I reflect on how technology influences art and vice versa, illustrated with examples from my own projects where I blend coding with creativity.
+
+- **[Tips for Efficient Remote Work](#)**: Drawing from my experiences, I share tips and strategies on staying productive and maintaining a work-life balance while working remotely.
+
+- **[Understanding Cybersecurity Fundamentals](#)**: In this article, I discuss the basics of cybersecurity, emphasizing its importance and offering advice for individuals and organizations to safeguard their digital assets.
+
+Feel free to check out these posts and share your thoughts!
+
 
 <p align="center">🌐 Visit my [GitHub Page](https://github.com/kalli010) for more!</p>
 
