@@ -5,10 +5,11 @@
 <p align="center">
   <img src="your_banner_url" alt="Banner">
 </p>
-
+<!--
 <p align="center">
   <img src="your_photo_url" width="100" height="100" style="border-radius: 50%;">
 </p>
+-->
 
 <h3>🌟 About Me:</h3>
 
