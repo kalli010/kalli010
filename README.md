@@ -68,12 +68,37 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 
 Feel free to leave comments or start a discussion on any of my repositories!
 
-<h3>🔍 Code Snippets:</h3>
+<h3>🔍 Fun Code Snippet:</h3>
 
-```python
-# Sample Python Code
-print("Hello, World!")
-```
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+// Function to generate a random compliment
+void randomCompliment() {
+    const char *compliments[] = {
+        "You're an awesome programmer!",
+        "Your code is as amazing as a double rainbow!",
+        "You're as brilliant as a supernova!",
+        "You code like a rockstar!",
+        "Your programming skills are out of this world!"
+    };
+    int numCompliments = sizeof(compliments) / sizeof(compliments[0]);
+
+    // Seed the random number generator
+    srand(time(NULL));
+    int randomIndex = rand() % numCompliments;
+
+    printf("%s\n", compliments[randomIndex]);
+}
+
+int main() {
+    printf("Hello! Here's a compliment for you:\n");
+    randomCompliment();
+    return 0;
+}
+
 
 <h3>📚 Personalized Content:</h3>
 
