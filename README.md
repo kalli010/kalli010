@@ -7,7 +7,7 @@
 </p>
 <!--
 <p align="center">
-  <img src="your_photo_url" width="100" height="100" style="border-radius: 50%;">
+  <img src=""https://www.pinterest.com/pin/237283474105925005/ width="100" height="100" style="border-radius: 50%;">
 </p>
 -->
 
