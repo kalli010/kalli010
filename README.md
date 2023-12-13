@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f4/30/32/f43032fd40cdcfe151f9eebfc289657d.gif" alt="Banner" width="100%" height="auto">
+  <img src="/home/kali/Downloadsm2-res_480p.mp4" alt="Banner" width="100%" height="auto">
 </p>
 
 
@@ -15,14 +15,14 @@
 <h3>🌟 About Me:</h3>
 
 I'm a student at 1337 School, diving deep into web development and machine learning. Here's a glimpse into my journey and projects.
-
+<!--
 <h3>🛠️ Skills:</h3>
 
 - **Languages**: Python, JavaScript
 - **Frameworks**: React, Django
 - **Tools**: Git, Docker
 - More badges...
-
+-->
 <h3>🔗 Connect with Me:</h3>
 
 <a href="https://www.linkedin.com/in/zakariae-elkalai-010793289/">
