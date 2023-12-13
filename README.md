@@ -121,8 +121,16 @@ This is just a snapshot of who I am outside the world of code. I believe that ou
 
 <h3>🛠️ Interactive Tools:</h3>
 
-- [Tool or Widget](#): Brief description or link to an interactive tool I've built.
-- Add more...
+I love building tools that not only solve problems but are also engaging and interactive. Here are a couple of highlights from my portfolio:
+
+- **Dynamic Data Visualizer**: A web-based tool I developed using JavaScript and D3.js. It helps users create beautiful, interactive data visualizations. Perfect for data analysts and enthusiasts! [Check it out here](https://github.com/kalli010/Data-Visualizer).
+
+- **Personal Budget Tracker**: This is a mobile app built with React Native, enabling users to track their expenses and income. It features interactive charts and real-time syncing across devices. [Explore the app](https://github.com/kalli010/Budget-Tracker).
+
+- **Interactive Quiz Platform**: An online quiz platform built with Python and Flask. It allows users to create, share, and take quizzes on various topics. Features include instant scoring and a dynamic leaderboard. [Try a quiz](https://github.com/kalli010/Quiz-Platform).
+
+Each of these tools reflects my commitment to creating user-friendly and practical applications. They embody my passion for combining functionality with creativity in software development.
+
 
 <h3>📝 Latest Blog Posts:</h3>
 
