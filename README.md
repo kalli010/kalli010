@@ -104,9 +104,8 @@ int main() {
 
 <h3>Hello World</h3>
 
-<p align="center">
-  <img src="https://packaged-media.redd.it/yu59lb5sk2191/pb/m2-res_480p.mp4?m=DASHPlaylist.mpd&v=1&e=1702526400&s=a38c43de7b3ec6e4caafdc30d612b17232f99eca#t=0" alt="Programming Meme Compilation" width="100%" height="auto">
-</p>
+[![Video Thumbnail](DIRECT_LINK_TO_IMAGE)](https://packaged-media.redd.it/yu59lb5sk2191/pb/m2-res_480p.mp4?m=DASHPlaylist.mpd&v=1&e=1702526400&s=a38c43de7b3ec6e4caafdc30d612b17232f99eca#t=0)
+
 
 <h3>📚 Personalized Content:</h3>
 
