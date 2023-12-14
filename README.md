@@ -102,11 +102,12 @@ int main() {
 }
 ```
 
-<h3> hello world </h3>
+<h3>Hello World</h3>
 
 <p align="center">
-  <img src="https://v.redd.it/yu59lb5sk2191" alt="Banner" width="100%" height="auto">
+  <img src="https://example.com/path/to/image.jpg" alt="Description" width="100%" height="auto">
 </p>
+
 
 <h3>📚 Personalized Content:</h3>
 
