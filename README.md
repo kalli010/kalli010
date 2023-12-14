@@ -1,11 +1,11 @@
 
 <h1 align="center">👋 Hi, I'm Kali</h1>
 <h2 align="center">🚀 Aspiring Software Developer | Tech Enthusiast 🚀</h2>
-
+<!--
 <p align="center">
   <img src="your_banner_url" alt="Banner">
 </p>
-
+-->
 <p align="center">
   <img src="https://i.pinimg.com/originals/f4/30/32/f43032fd40cdcfe151f9eebfc289657d.gif" alt="Banner" width="100%" height="auto">
 </p>
@@ -101,11 +101,6 @@ int main() {
     return 0;
 }
 ```
-
-<h3>Hello World</h3>
-
-[![Video Thumbnail](DIRECT_LINK_TO_IMAGE)](https://packaged-media.redd.it/yu59lb5sk2191/pb/m2-res_480p.mp4?m=DASHPlaylist.mpd&v=1&e=1702526400&s=a38c43de7b3ec6e4caafdc30d612b17232f99eca#t=0)
-
 
 <h3>📚 Personalized Content:</h3>
 
