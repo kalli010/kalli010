@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="/home/kali/Download/sm2-res_480p.mp4" alt="Banner" width="100%" height="auto">
+  <img src="/home/kali/Download/m2-res_480p.mp4" alt="Banner" width="100%" height="auto">
 </p>
 
 
