@@ -23,6 +23,8 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 - **Tools**: Git, Docker
 - More badges...
 -->
+
+<!--
 <h3>🔗 Connect with Me:</h3>
 
 <a href="https://www.linkedin.com/in/zakariae-elkalai-010793289/">
@@ -31,6 +33,7 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 <a href="https://twitter.com/ElkalaiZakariae">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
+-->
 
 <h3>📊 GitHub Stats:</h3>
 
@@ -38,13 +41,9 @@ I'm a student at 1337 School, diving deep into web development and machine learn
 
 <h3>🌐 Repository Overviews:</h3>
 
-- **[Project Name 1](https://github.com/kalli010/project-name-1)**: This repository contains a project about [brief description of Project 1]. It demonstrates skills in [technologies/languages used].
+- **[libft](https://github.com/kalli010/libft)**: This repository contains a project about a comprehensive library that includes a variety of utility functions.
 
-- **[Project Name 2](https://github.com/kalli010/project-name-2)**: Here, I've developed [brief description of Project 2], showcasing my abilities in [technologies/languages used].
-
-- **[Project Name 3](https://github.com/kalli010/project-name-3)**: This project focuses on [brief description of Project 3], utilizing [technologies/languages used] to achieve [goal or result of the project].
-
-
+- **[ft_printf](https://github.com/kalli010/ft_printf)**: Here, I've developed a custom implementation of the classic printf function in C.
 <!--
 <h3>📈 Activity Graph:</h3>
 
