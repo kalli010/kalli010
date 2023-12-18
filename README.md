@@ -87,7 +87,6 @@ void randomCompliment() {
     };
     int numCompliments = sizeof(compliments) / sizeof(compliments[0]);
 
-    // Seed the random number generator
     srand(time(NULL));
     int randomIndex = rand() % numCompliments;
 
