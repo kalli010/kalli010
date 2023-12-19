@@ -76,7 +76,6 @@ Feel free to leave comments or start a discussion on any of my repositories!
 #include <stdlib.h>
 #include <time.h>
 
-// Function to generate a random compliment
 void randomCompliment() {
     const char *compliments[] = {
         "You're an awesome programmer!",
