@@ -1,6 +1,5 @@
 
 <h1 align="center">👋 Hi, I'm Kali</h1>
-<h2 align="center">🚀 Aspiring Software Developer | Tech Enthusiast 🚀</h2>
 <!--
 <p align="center">
   <img src="your_banner_url" alt="Banner">
