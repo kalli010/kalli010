@@ -1,5 +1,4 @@
 
-<h1 align="center">👋 Hi, I'm Kali</h1>
 <!--
 <p align="center">
   <img src="your_banner_url" alt="Banner">
